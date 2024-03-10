@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39535272511",
+    "project_id": "the-wag-68yknu",
+    "storage_bucket": "the-wag-68yknu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39535272511:android:8874ece5359306487cce8a",
+        "android_client_info": {
+          "package_name": "com.the.wag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIe4MfbRqj-UXwoHAbvOcghoL5ebiyLTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

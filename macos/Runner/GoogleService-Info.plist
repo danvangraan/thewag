@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCD4vYE8MYFlesNYKd-9Ej6e7jVlnNBzEk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39535272511</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.the.wag</string>
+	<key>PROJECT_ID</key>
+	<string>the-wag-68yknu</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-wag-68yknu.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39535272511:ios:5b4f932b7b519d1b7cce8a</string>
+</dict>
+</plist>
